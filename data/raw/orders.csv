@@ -1,0 +1,10 @@
+order_id,customer_id,customer_name,city,category,amount,order_time
+101,C001,Rahul,Pune,Electronics,25000,2025-05-01 10:15:00
+102,C002,Anjali,Mumbai,fashion,3500,2025-05-01 11:00:00
+103,C003,Amit,,Grocery,1200,2025-05-01 11:20:00
+104,C004,Neha,Bangalore,ELECTRONICS,-500,2025-05-01 12:00:00
+105,,Karan,Pune,Fashion,2200,2025-05-01 12:30:00
+106,C006,Priya,Delhi,grocery,800,INVALID_DATE
+101,C001,Rahul,Pune,Electronics,25000,2025-05-01 10:15:00
+107,C007,Vikas,Chennai,Electronics,15000,2025-05-01 14:00:00
+108,C008,Meera,Pune,FASHION,4500,2025-05-01 15:00:00
